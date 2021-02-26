@@ -1,0 +1,13 @@
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\bin\Debug\netcoreapp3.1\Syntax_Suger.exe
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\bin\Debug\netcoreapp3.1\Syntax_Suger.deps.json
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\bin\Debug\netcoreapp3.1\Syntax_Suger.runtimeconfig.json
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\bin\Debug\netcoreapp3.1\Syntax_Suger.runtimeconfig.dev.json
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\bin\Debug\netcoreapp3.1\Syntax_Suger.dll
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\bin\Debug\netcoreapp3.1\Syntax_Suger.pdb
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\obj\Debug\netcoreapp3.1\Syntax_Suger.csprojAssemblyReference.cache
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\obj\Debug\netcoreapp3.1\Syntax_Suger.AssemblyInfoInputs.cache
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\obj\Debug\netcoreapp3.1\Syntax_Suger.AssemblyInfo.cs
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\obj\Debug\netcoreapp3.1\Syntax_Suger.csproj.CoreCompileInputs.cache
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\obj\Debug\netcoreapp3.1\Syntax_Suger.dll
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\obj\Debug\netcoreapp3.1\Syntax_Suger.pdb
+C:\Users\mphar\Desktop\repos\Syntax_Suger\Syntax_Suger\obj\Debug\netcoreapp3.1\Syntax_Suger.genruntimeconfig.cache
