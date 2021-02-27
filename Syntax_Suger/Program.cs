@@ -6,10 +6,11 @@ namespace Syntax_Suger
     {
         static void Main(string[] args)
         {
-            var answer = 4;
-            var responce = (answer < 9)? " is less than nine.":
+            Console.WriteLine("Pick a number.");
+            var input = int.Parse(Console.ReadLine());
+            var responce = (input < 9)? " is less than nine.":
                 " is greater than or equal to nine.";
-            Console.WriteLine($"{ answer}{ responce}");
+            Console.WriteLine($"{ input}{ responce}");
 
 
         }
